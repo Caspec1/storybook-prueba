@@ -1,7 +1,7 @@
 {
   "name": "jm-custom-components",
   "private": false,
-  "version": "0.0.1-rc3",
+  "version": "0.1.0",
   "type": "module",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -74,6 +74,5 @@
     "typescript": "^5.2.2",
     "vite": "^5.0.8"
   },
-  "readme": "ERROR: No README data found!",
-  "_id": "my-storybook@0.0.0"
+  "readme": "ERROR: No README data found!"
 }
