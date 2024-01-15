@@ -1,7 +1,7 @@
 import { Meta, StoryObj } from "@storybook/react";
-import { MyLabel } from "../components/MyLabel";
+import { MyLabel, MyLabelProps } from "../components/MyLabel";
 
-const meta = {
+const meta: Meta<MyLabelProps> = {
   title: "UI/Labels/MyLabel",
   tags: ["autodocs"],
   component: MyLabel,
